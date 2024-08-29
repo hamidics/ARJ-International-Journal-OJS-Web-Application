@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-30T06:56:50-07:00\n"
+"PO-Revision-Date: 2019-09-30T06:56:50-07:00\n"
+"Language: \n"
+
+msgid "plugins.themes.academicfree.name"
+msgstr "Academic Free Theme ver 3.3"
+
+msgid "plugins.themes.academicfree.description"
+msgstr "Academic Free Theme oleh openjournaltheme.com"
+
+msgid "plugins.themes.academicfree.accessible_menu.label"
+msgstr "Lompat cepat ke konten halaman"
+
+msgid "plugins.themes.academicfree.accessible_menu.main_navigation"
+msgstr "Navigasi Utama"
+
+msgid "plugins.themes.academicfree.accessible_menu.main_content"
+msgstr "Isi utama"
+
+msgid "plugins.themes.academicfree.accessible_menu.sidebar"
+msgstr "Sidebar"
+
+msgid "plugins.themes.academicfree.article.sidebar"
+msgstr "Artikel Sidebar"
+
+msgid "plugins.themes.academicfree.article.main"
+msgstr "Isi Artikel Utama"
+
+msgid "plugins.themes.academicfree.article.details"
+msgstr "Rincian Artikel"
+
+msgid "plugins.themes.academicfree.options.academicFree.label"
+msgstr "Tema Bootstrap"
+
+msgid "plugins.themes.academicfree.options.academicFree.description"
+msgstr "Pilih salah satu dari sumber terbuka ini Tema bootstrap yang mengubah warna dan tipografi situs web Anda."
+
+msgid "plugins.themes.academicfree.options.academicFree.bootstrap3"
+msgstr "Tema Bootstrap Default"
+
+msgid "plugins.themes.academicfree.options.academicFree.cerulean"
+msgstr "Cerulean"
+
+msgid "plugins.themes.academicfree.options.academicFree.cleanblog"
+msgstr "Blog Bersih"
+
+msgid "plugins.themes.academicfree.options.academicFree.cosmo"
+msgstr "Cosmo"
+
+msgid "plugins.themes.academicfree.options.academicFree.cyborg"
+msgstr "Cyborg"
+
+msgid "plugins.themes.academicfree.options.academicFree.darkly"
+msgstr "Darkly"
+
+msgid "plugins.themes.academicfree.options.academicFree.flatly"
+msgstr "Flatly"
+
+msgid "plugins.themes.academicfree.options.academicFree.journal"
+msgstr "Jurnal"
+
+msgid "plugins.themes.academicfree.options.academicFree.lumen"
+msgstr "Lumen"
+
+msgid "plugins.themes.academicfree.options.academicFree.paper"
+msgstr "Kertas"
+
+msgid "plugins.themes.academicfree.options.academicFree.readable"
+msgstr "Dapat dibaca"
+
+msgid "plugins.themes.academicfree.options.academicFree.sandstone"
+msgstr "Batu pasir"
+
+msgid "plugins.themes.academicfree.options.academicFree.simplex"
+msgstr "Simpleks"
+
+msgid "plugins.themes.academicfree.options.academicFree.slate"
+msgstr "Batu tulis"
+
+msgid "plugins.themes.academicfree.options.academicFree.spacelab"
+msgstr "Spacelab"
+
+msgid "plugins.themes.academicfree.options.academicFree.superhero"
+msgstr "Super hero"
+
+msgid "plugins.themes.academicfree.options.academicFree.united"
+msgstr "Serikat"
+
+msgid "plugins.themes.academicfree.options.academicFree.yeti"
+msgstr "Yeti"
+
+msgid "journal.journals"
+msgstr "Jurnal"
+
+msgid "plugins.themes.academicfree.contact_us"
+msgstr "Hubungi kami"
+
+msgid "plugins.themes.academicfree.address"
+msgstr "Alamat"
+
+msgid "lang.information"
+msgstr "Informasi"
+
+msgid "plugins.themes.academicfree.headerTheme.name"
+msgstr "Tema Header Situs"
+
+msgid "plugins.themes.academicfree.headerTheme.description"
+msgstr "Opsi Desain Header Situs"
+
+msgid "plugins.themes.academicfree.headerTheme.red"
+msgstr "Merah Modern (Hanya Versi Pro)"
+
+msgid "plugins.themes.academicfree.headerTheme.edu"
+msgstr "Pendidikan-Pengajaran (Hanya Versi Pro)"
+
+msgid "plugins.themes.academicfree.headerTheme.dots"
+msgstr "Beberapa Titik Esentrik (Hanya Versi Pro)"
+
+msgid "plugins.themes.academicfree.headerTheme.diamond"
+msgstr "Diamond Shine (Hanya Versi Pro)"
+
+msgid "plugins.themes.academicfree.headerTheme.blue"
+msgstr "Langit biru"
+
+msgid "plugins.themes.academicfree.contact_us"
+msgstr "Hubungi kami"
+
+msgid "plugins.themes.academicfree.mailingAddress"
+msgstr "Alamat surat"
+
+msgid "plugins.themes.academicfree.address"
+msgstr "Alamat"
+
+msgid "lang.information"
+msgstr "Informasi"
+
+msgid "plugins.themes.academicfree.headerTheme.name"
+msgstr "Pilih desain tema tajuk (Hanya Versi Pro):"
+
+msgid "plugins.themes.academicfree.headerTheme.description"
+msgstr "Desain gambar prebuilt di header jurnal"
+
+msgid "plugins.themes.academicfree.headerTheme.red"
+msgstr "Merah Modern"
+
+msgid "plugins.themes.academicfree.headerTheme.edu"
+msgstr "Pendidikan-Pengajaran"
+
+msgid "plugins.themes.academicfree.headerTheme.dots"
+msgstr "Beberapa Titik Esentrik"
+
+msgid "plugins.themes.academicfree.headerTheme.diamond"
+msgstr "Diamond Shine"
+
+msgid "plugins.themes.academicfree.headerTheme.blue"
+msgstr "Langit biru"
+
+msgid "plugins.themes.academicfree.stat_label"
+msgstr "Apakah statistik artikel ditampilkan?"
+
+msgid "plugins.themes.academicfree.stat.desc"
+msgstr "Apakah Statistik Artikel pada halaman indeks Jurnal harus ditampilkan"
+
+msgid "plugins.themes.academicfree.article_tracking_date"
+msgstr "Apakah sejarah artikel ditampilkan?"
+
+msgid "plugins.themes.academicfree.article_tracking_date.desc"
+msgstr "Tanggal Pengiriman Artikel, Tanggal Publikasi di sidebar di halaman detail artikel"
+
+msgid "plugins.themes.academicfree.enable"
+msgstr "Ya"
+
+msgid "plugins.themes.academicfree.disable"
+msgstr "Tidak"
+
+msgid "plugins.themes.academicfree.galley_link_on_index"
+msgstr "Aktifkan Galley Link di Journal Index?"
+
+msgid "plugins.themes.academicfree.galley_link_on_index_desc"
+msgstr "Nonaktifkan dan itu bagus untuk SEO dan Pengalaman Situs (Disarankan)"
+
+msgid "plugins.themes.academicfree.theme_color"
+msgstr "Pilih warna utama tema"
+
+msgid "plugins.themes.academicfree.theme_color_desc"
+msgstr "Atur warna yang sesuai dengan gaya jurnal Anda"
+
+msgid "plugins.themes.academicfree.logo_style"
+msgstr "Gaya Logo pada Indeks Jurnal"
+
+msgid "plugins.themes.academicfree.logo_style_description"
+msgstr "Tampilkan logo besar atau hanya logo kecil (sebelum nama jurnal)"
+
+msgid "plugins.themes.academicfree.logo_big"
+msgstr "Logo Besar"
+
+msgid "plugins.themes.academicfree.logo_small"
+msgstr "Logo Kecil"
+
+msgid "submissions.accepted"
+msgstr "Diterima"
+
+msgid "plugins.themes.academicfree.dimension_badge_label"
+msgstr "Aktifkan Badge Dimensi di halaman Detail Artikel?"
+
+msgid "plugins.themes.academicfree.dimension_badge_desc"
+msgstr "Pastikan Anda menambahkan DOI pada artikel dan Anda terdaftar pada layanan kutipan. Silakan panduan tema untuk info lebih lanjut."
+
+msgid "plugins.themes.academicfree.doi_on_index"
+msgstr "Tampilkan Artikel DOI pada indeks jurnal?"
+
+msgid "plugins.themes.academicfree.doi_on_index_desc"
+msgstr "Tunjukkan Digital Object Identifier pada indeks jurnal Anda yang ditautkan ke detail artikel. Perhatikan hanya bekerja pada OJS min versi 3.1.2"
+
+msgid "plugins.themes.academicfree.crossmark_label"
+msgstr "Tampilkan tombol crossmark pada halaman detail artikel (pastikan Anda telah mendaftarkan jurnal ke crossmark -- baca manual temanya)"
+
+msgid "plugins.themes.academicfree.crossmark_button_desc"
+msgstr "Jika diaktifkan dan DOI ada, tombol tanda silang akan ditampilkan di halaman detail artikel."
+
+msgid "plugins.themes.academicfree.maintenance_label"
+msgstr "Situs dalam mode pemeliharaan?"
+
+msgid "plugins.themes.academicfree.maintenance_desc"
+msgstr "Jika diaktifkan, ini akan menampilkan spanduk pemeliharaan di atas situs dan menambahkan meta no cache (nonaktifkan cache untuk situs Anda) (default Tidak)"
+

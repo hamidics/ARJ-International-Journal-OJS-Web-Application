@@ -1,0 +1,3 @@
+[2023-10-11 07:48:22] https://arj.af
+[2023-10-11 07:48:22] [Notice] Task process started.
+[2023-10-11 07:48:22] [Error] The directory /home4/arjafof4/public_html/uploads/usageStats/processing is not empty. This could indicate a previously failed process, or a concurrently running process. This file will be automatically reprocessed if you are also using scheduledTasksAutoStage.xml, otherwise you will need to manually move any orphaned files in the processing directory back into the stage directory.

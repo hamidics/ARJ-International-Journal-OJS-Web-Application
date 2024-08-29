@@ -1,0 +1,57 @@
+.custombutton {
+  border: 0px; width: 100%; background-image: linear-gradient(to right, #1b364b 0%, black 50%, #0271c7 100%); padding: 13px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; cursor: pointer;
+  color: white
+}
+
+.custombutton:hover {
+  border: 0px; width: 100%; background-image: linear-gradient(to right, #1b364b 0%, darkred 50%, #0271c7 100%); padding: 13px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; cursor: pointer;
+  color: white;
+  -webkit-transition: width 2s;
+  transition: width 2s;
+font-size:15px
+
+}
+
+.marquee-outer {
+ height: 100px;	
+ overflow: hidden;
+ position: relative;
+ color: orange;
+}
+.marquee-inner {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);	
+ transform:translateX(100%);
+ /* Apply animation to this element */	
+ -moz-animation: scroll-left 5s linear infinite;
+ -webkit-animation: scroll-left 5s linear infinite;
+ animation: scroll-left 15s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes scroll-left {
+ 0%   { 
+ -moz-transform: translateX(100%); /* Browser bug fix */
+ -webkit-transform: translateX(100%); /* Browser bug fix */
+ transform: translateX(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); /* Browser bug fix */
+ -webkit-transform: translateX(-100%); /* Browser bug fix */
+ transform: translateX(-100%); 
+ }
+}
